@@ -10,6 +10,11 @@
       ]
     },
     {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello"],
+      "responses": ["Hello! How can I help?", "Hi there!"]
+    },
+    {
       "tag": "tms_definition",
       "patterns": ["what is tms", "explain tms", "define tms", "what tms means"],
       "responses": [

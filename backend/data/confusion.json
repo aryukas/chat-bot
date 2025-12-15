@@ -1,0 +1,11 @@
+{
+    "greeting": {
+        "greeting": 4
+    },
+    "tms_definition": {
+        "tms_definition": 4
+    },
+    "goodbye": {
+        "fallback": 2
+    }
+}

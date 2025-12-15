@@ -1,0 +1,8 @@
+{
+    "greeting|Hello! How can I help?": 6,
+    "greeting|Hi there!": 2,
+    "tms_definition|A Transport Management System (TMS) is a software that streamlines logistics operations from start to finish.": 6,
+    "greeting|Hey there! Need help with your transport operations?": 14,
+    "fallback|Hmm, I\u2019m not sure I got that. Can you try asking differently?": 4,
+    "control_tower|A Control Tower is a centralized dashboard that provides real-time visibility into shipments, vehicles, hubs, and deliveries.": 1
+}
