@@ -1,0 +1,110 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening", "hi there", "hello bot"],
+      "responses": [
+        "Hi! I’m WebXpress Bot! How can I assist you today?",
+        "Hello! How can I help you with WebXpress today?",
+        "Hey there! Need help with your transport operations?"
+      ]
+    },
+    {
+      "tag": "tms_definition",
+      "patterns": ["what is tms", "explain tms", "define tms", "what tms means"],
+      "responses": [
+        "TMS stands for Transport Management System — it helps you manage contracts, bookings, deliveries, and finances in one platform.",
+        "A Transport Management System (TMS) is a software that streamlines logistics operations from start to finish."
+      ]
+    },
+    {
+      "tag": "webxpress_features",
+      "patterns": ["tell me about WebXpress", "overview of WebXpress", "webxpress features", "product overview"],
+      "responses": [
+        "WebXpress is a complete TMS solution with contracts, booking, delivery, billing, and finance all integrated.",
+        "Our system connects operations directly with finance and ensures GST/E-way compliance automatically."
+      ]
+    },
+    {
+      "tag": "gst_eway",
+      "patterns": ["gst billing", "eway bill", "invoice generation", "compliance with gst", "gst integration", "eway generation"],
+      "responses": [
+        "WebXpress Velocity connects directly to the government system to generate GST and E-way bills automatically.",
+        "All your GST and E-way bill requirements are handled seamlessly without extra steps."
+      ]
+    },
+    {
+      "tag": "booking_process",
+      "patterns": ["how to create a booking", "schedule delivery", "manage contract", "book a shipment", "create order", "track delivery"],
+      "responses": [
+        "You can create bookings, track deliveries, and manage contracts easily in WebXpress.",
+        "Our booking system is fully integrated with billing and finance for seamless operations."
+      ]
+    },
+    {
+      "tag": "business_model",
+      "patterns": ["parcel", "air cargo", "ftl", "fleet", "container", "tanker", "cold chain", "business verticals"],
+      "responses": [
+        "WebXpress TMS supports Parcel/LTL/Express, Air Cargo, FTL/Fleet, Container (EXIM), Tanker, and Cold Chain operations.",
+        "Our system is versatile and can fit almost any transport business vertical you serve."
+      ]
+    },
+    {
+  "tag": "control_tower",
+  "patterns": [
+    "what is control tower",
+    "what is logistics control tower",
+    "define control tower",
+    "explain control tower",
+    "control tower in tms",
+    "shipment control tower",
+    "control tower meaning"
+  ],
+  "responses": [
+    "A Control Tower is a centralized dashboard that provides real-time visibility into shipments, vehicles, hubs, and deliveries.",
+    "The Control Tower helps monitor operations, detect delays, manage exceptions, and improve decision-making in real time.",
+    "In logistics, a Control Tower gives end-to-end visibility and control across the entire supply chain."
+  ]
+  
+},
+{
+  "tag": "transportation_control_tower",
+  "patterns": [
+    "what is transportation control tower",
+    "what is logistics control tower",
+    "control tower in transportation",
+    "control tower in logistics",
+    "control tower using webxpress",
+    "shipment control tower",
+    "vehicle control tower",
+    "real time transportation visibility",
+    "end to end shipment visibility",
+    "how control tower works",
+    "control tower features",
+    "control tower benefits",
+    "control tower for fleet management",
+    "control tower for logistics operations",
+    "control tower for supply chain",
+    "iot based control tower",
+    "gps based control tower",
+    "control tower with tms integration"
+  ],
+  "responses": [
+    "A Transportation Control Tower is a centralized digital platform that provides real-time visibility of vehicles, trips, and shipments using GPS, IoT, and TMS data.",
+    "WebXpress Transportation Control Tower integrates vehicle movement, shipment data, and telematics to predict delays, detect deviations, and improve SLA performance.",
+    "The Control Tower combines trip-level and shipment-level intelligence to proactively manage logistics operations and prevent supply chain disruptions.",
+    "With WebXpress Control Tower, organizations gain end-to-end visibility, automated alerts, and predictive insights across their transportation network."
+  ]
+},
+
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "Sorry, I don’t understand yet, but I can connect you to support.",
+        "I’m still learning. Can you please rephrase?",
+        "Hmm, I’m not sure I got that. Can you try asking differently?"
+      ]
+    }
+  ]
+}

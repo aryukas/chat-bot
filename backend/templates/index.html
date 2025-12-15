@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WebXpress Bot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+<body>
+<div class="chatbox">
+  <h3>WebXpress Bot</h3>
+  <div id="chat">
+    <div class="bot-message">Hi! I’m WebXpress Bot! How can I assist you today?</div>
+  </div>
+  <input type="text" id="userInput" placeholder="Type your message">
+  <button onclick="sendMessage()">Send</button>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
