@@ -58,6 +58,8 @@
   "tag": "control_tower",
   "patterns": [
     "what is control tower",
+    "what is tower",
+    "what are control towers",
     "what is logistics control tower",
     "define control tower",
     "explain control tower",
@@ -102,6 +104,172 @@
   ]
 },
 
+{
+  "tag": "logicloud",
+  "patterns": [
+    "what is self learning in logicloud",
+    "does logicloud use ai",
+    "how does the system improve over time",
+    "can logicloud learn automatically",
+    "ai based logistics optimization",
+    "machine learning in supply chain",
+    "smart logistics system",
+    "how does logicloud predict delays",
+    "does logicloud analyze past data",
+    "how does logicloud make decisions",
+    "is logicloud predictive or reactive",
+    "can logicloud optimize logistics automatically",
+    "how does logicloud reduce delays",
+    "what kind of ai is used in logicloud"
+  ],
+  "responses": [
+    "LogiCloud uses self-learning AI models that continuously study historical shipments, live GPS feeds, delay reasons, route behavior, and partner performance to automatically improve logistics decisions.",
+    
+    "Every completed shipment becomes training data. The system learns which routes, LSPs, transport modes, and time windows perform best under different conditions and applies those learnings to future orders.",
+    
+    "LogiCloud improves ETA and TAT predictions by analyzing patterns such as recurring congestion zones, weather impact, festival season delays, vehicle behavior, and historical deviation trends.",
+    
+    "Instead of relying only on static rules, LogiCloud adapts dynamically. If a transporter’s performance drops or a route becomes unreliable, the system automatically adjusts future assignments.",
+    
+    "AI-powered delay prediction allows LogiCloud to identify risks before delays occur, enabling proactive alerts, rerouting, or partner reassignment in real time.",
+    
+    "Machine learning models inside LogiCloud detect anomalies such as unusual halts, inconsistent GPS signals, route deviations, or sensor threshold breaches without manual configuration.",
+    
+    "Self-learning optimization helps reduce logistics costs by recommending the most efficient transporter based on cost, delivery reliability, historical success rate, and service quality.",
+    
+    "LogiCloud continuously evaluates LSP performance using KPIs like on-time delivery, POD quality, damage rates, and response time, creating an evolving performance score for smarter allocation.",
+    
+    "The system transitions from reactive tracking to predictive and prescriptive logistics, helping teams act before issues impact customers.",
+    
+    "Over time, LogiCloud becomes more accurate, resilient, and efficient, delivering measurable improvements in delivery speed, customer satisfaction, and operational control."
+  ]
+},
+{
+  "tag": "order_management",
+  "patterns": [
+    "what is order management in logicloud",
+    "how does logicloud manage orders",
+    "can logicloud integrate with erp",
+    "order integration with wms",
+    "api based order management"
+  ],
+  "responses": [
+    "LogiCloud enables seamless order management through API-based integration with ERP and WMS systems, ensuring smooth order creation, updates, and tracking across platforms."
+  ]
+},
+{
+  "tag": "lsp_allocation",
+  "patterns": [
+    "how does logicloud assign transporters",
+    "lsp allocation system",
+    "automatic transporter selection",
+    "best lsp for a route"
+  ],
+  "responses": [
+    "LogiCloud uses algorithm-based logic to automatically select the right logistics partner for each lane based on cost, TAT, route, and past performance."
+  ]
+},
+{
+  "tag": "erp_wms_integration",
+  "patterns": [
+    "erp integration in logicloud",
+    "wms integration",
+    "can logicloud connect with erp systems",
+    "how does api integration work"
+  ],
+  "responses": [
+    "LogiCloud integrates with ERP and WMS systems using secure APIs to sync order, invoice, and shipment data in real time without manual intervention."
+  ]
+},
+{
+  "tag": "smart_lsp_selection",
+  "patterns": [
+    "how does logicloud choose lsp",
+    "intelligent lsp assignment",
+    "ai based lsp selection"
+  ],
+  "responses": [
+    "The system continuously evaluates LSP performance and dynamically assigns the most reliable and cost-effective partner for every shipment."
+  ]
+},
+{
+  "tag": "real_time_tracking",
+  "patterns": [
+    "real time shipment tracking",
+    "track delivery live",
+    "where is my shipment",
+    "logicloud tracking feature"
+  ],
+  "responses": [
+    "LogiCloud provides real-time tracking by integrating GPS, LSP, airline, and railway data to give end-to-end visibility of shipments."
+  ]
+},
+{
+  "tag": "delay_prediction",
+  "patterns": [
+    "how does logicloud predict delays",
+    "delay prediction system",
+    "tat deviation alerts"
+  ],
+  "responses": [
+    "LogiCloud predicts delays by analyzing live movement data against planned TAT and historical patterns, enabling proactive action before service impact."
+  ]
+},
+{
+  "tag": "pod_management",
+  "patterns": [
+    "what is pod management",
+    "digital pod system",
+    "proof of delivery upload",
+    "pod audit"
+  ],
+  "responses": [
+    "LogiCloud enables digital POD collection, storage, and auditing to quickly identify delivery discrepancies and improve service quality."
+  ]
+},
+{
+  "tag": "freight_audit",
+  "patterns": [
+    "freight audit system",
+    "lsp invoice audit",
+    "verify transporter bills"
+  ],
+  "responses": [
+    "LogiCloud audits LSP invoices by matching billed amounts against SLA terms and actual delivery performance to eliminate billing discrepancies."
+  ]
+},
+{
+  "tag": "analytics_dashboard",
+  "patterns": [
+    "logistics analytics",
+    "delivery performance dashboard",
+    "shipment analytics"
+  ],
+  "responses": [
+    "LogiCloud offers advanced dashboards and analytics to track delivery performance, LSP efficiency, delay trends, and operational KPIs."
+  ]
+},
+{
+  "tag": "end_to_end_visibility",
+  "patterns": [
+    "end to end supply chain visibility",
+    "complete shipment visibility",
+    "logistics transparency"
+  ],
+  "responses": [
+    "LogiCloud delivers end-to-end supply chain visibility across forward and reverse logistics, partners, and transport modes in one unified platform."
+  ]
+},{
+  "tag": "omnichannel_logistics",
+  "patterns": [
+    "what is omnichannel logistics",
+    "ecommerce delivery management",
+    "store to consumer delivery"
+  ],
+  "responses": [
+    "LogiCloud supports omnichannel logistics, including e-commerce deliveries and direct store-to-consumer fulfillment on a single platform."
+  ]
+},
     {
       "tag": "fallback",
       "patterns": [],
