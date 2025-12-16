@@ -23,13 +23,80 @@
       ]
     },
     {
+  "tag": "webxpress_leadership",
+  "patterns": [
+    "Who created WebXpress",
+    "WebXpress CEO",
+    "WebXpress founders",
+    "WebXpress leadership",
+    "WebXpress management team"
+  ],
+  "responses": [
+    "WebXpress was founded by Apurva Mankad, who serves as Founder Director & CEO. Nehal Mankad is the Director & COO, and Shashank Trivedi is Co-founder. Would you like to learn more about their roles or the team behind WebXpress?"
+  ]
+},
+    {
       "tag": "webxpress_features",
-      "patterns": ["tell me about WebXpress", "overview of WebXpress", "webxpress features", "product overview"],
+      "patterns": [ "overview of WebXpress", "webxpress features", "product overview"],
       "responses": [
-        "WebXpress is a complete TMS solution with contracts, booking, delivery, billing, and finance all integrated.",
-        "Our system connects operations directly with finance and ensures GST/E-way compliance automatically."
+        "WebXpress is an advanced logistics and transportation management platform that helps businesses manage, monitor, and optimize their supply chain operations efficiently. Would you like to learn more about WebXpress, its features, or its products?",
+        "With WebXpress, organizations gain centralized control over transportation activities, enabling better coordination between shippers, transporters, and logistics partners. Would you like to learn more about WebXpress, its features, or its products?",
+
+    "WebXpress supports digital transformation in logistics by reducing manual processes and improving accuracy through automation and system integration. Would you like to explore more about WebXpress, its features, or its products?",
+
+    "WebXpress is designed to scale with business growth, making it ideal for companies managing high shipment volumes and multi-location operations. Would you like to know more about WebXpress, its features, or its products?",
+
+    "WebXpress improves customer satisfaction by offering better visibility, timely deliveries, and consistent communication across the supply chain. Would you like to learn more about WebXpress, its features, or its products?",
+        "WebXpress provides end-to-end visibility across logistics operations, allowing organizations to track shipments, manage fleets, and control transportation activities in real time. Would you like to explore more about WebXpress, its features, or its products?"
       ]
     },
+    {
+  "tag": "webxpress_about",
+  "patterns": [
+    "About WebXpress",
+    "Tell me about WebXpress",
+    "WebXpress company info",
+    "WebXpress team",
+    "WebXpress technology",
+    "WebXpress background"
+  ],
+  "responses": [
+    "WebXpress is driven by technology for sustainable supply chains, helping businesses operate efficiently while reducing environmental impact. Would you like to learn more about its features or products?",
+
+    "Any organization is a reflection of its team. WebXpress has a team of over 80 professionals combining Operations Management and Technology expertise. Would you like to know more about its team, features, or products?",
+
+    "Our core team has more than 100 years of combined experience in logistics and technology, ensuring industry-leading solutions. Would you like to learn more about WebXpress’s features or products?",
+
+    "At WebXpress, we continuously invest in new talent and train them to become the logistics professionals of tomorrow. Would you like to know more about our team, features, or products?",
+
+    "WebXpress has always been at the forefront of next-generation technology, from Mobility and Cloud to Business Intelligence and Machine Learning. Would you like to explore more about its features or products?",
+
+    "With a unique blend of operations and technology expertise, WebXpress delivers innovative solutions for modern logistics challenges. Would you like to learn more about its features or products?",
+
+    "WebXpress combines experience, innovation, and cutting-edge technology to make supply chains smarter, faster, and more sustainable. Would you like to know more about its features or products?",
+
+    "Our technology focus spans across automation, analytics, cloud platforms, and AI, ensuring businesses stay ahead in logistics efficiency. Would you like to learn more about its features or products?",
+
+    "WebXpress empowers organizations to optimize operations while maintaining a highly skilled, continuously evolving team. Would you like to know more about our features or products?",
+
+    "In an ever-changing world of technology, WebXpress focuses on innovation, sustainability, and operational excellence to deliver next-generation logistics solutions. Would you like to explore its features or products?"
+  ]
+},
+{
+  "tag": "webxpress_products",
+  "patterns": [
+    "WebXpress products",
+    "What are WebXpress products",
+    "Tell me about WebXpress products",
+    "WebXpress solutions",
+    "WebXpress services"
+  ],
+  "responses": [
+    [
+    "WebXpress offers a range of products to manage and optimize logistics operations, including TMS, WMS, E-Commerce, GreenXpress, LogiCloud, and Control Tower. Would you like to learn more about the features of each product?"
+  ]
+  ]
+},
     {
       "tag": "gst_eway",
       "patterns": ["gst billing", "eway bill", "invoice generation", "compliance with gst", "gst integration", "eway generation"],

@@ -11,7 +11,7 @@ CORS(app)  # allow cross-origin requests
 @app.route('/')
 def home():
     """
-    Serve the main HTML page.
+    Serve the main HTML page index.html.
     Make sure index.html is in the 'templates' folder.
     """
     return render_template('index.html')
@@ -60,4 +60,3 @@ def feedback():
 # ----------------------------
 if __name__ == "__main__":
     app.run(debug=True)
-

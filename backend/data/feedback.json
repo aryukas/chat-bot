@@ -1,10 +1,19 @@
 {
     "greeting|Hello! How can I help?": 6,
     "greeting|Hi there!": 2,
-    "tms_definition|A Transport Management System (TMS) is a software that streamlines logistics operations from start to finish.": 10,
+    "tms_definition|A Transport Management System (TMS) is a software that streamlines logistics operations from start to finish.": 11,
     "greeting|Hey there! Need help with your transport operations?": 18,
-    "fallback|Hmm, I\u2019m not sure I got that. Can you try asking differently?": 4,
+    "fallback|Hmm, I\u2019m not sure I got that. Can you try asking differently?": 6,
     "control_tower|A Control Tower is a centralized dashboard that provides real-time visibility into shipments, vehicles, hubs, and deliveries.": 5,
     "transportation_control_tower|With WebXpress Control Tower, organizations gain end-to-end visibility, automated alerts, and predictive insights across their transportation network.": 2,
-    "self_learning_ai|The system transitions from reactive tracking to predictive and prescriptive logistics, helping teams act before issues impact customers.": 3
+    "self_learning_ai|The system transitions from reactive tracking to predictive and prescriptive logistics, helping teams act before issues impact customers.": 3,
+    "smart_lsp_selection|The system continuously evaluates LSP performance and dynamically assigns the most reliable and cost-effective partner for every shipment.": 1,
+    "logicloud|Machine learning models inside LogiCloud detect anomalies such as unusual halts, inconsistent GPS signals, route deviations, or sensor threshold breaches without manual configuration.": 2,
+    "webxpress_features|Our system connects operations directly with finance and ensures GST/E-way compliance automatically.": 1,
+    "webxpress_|WebXpress improves customer satisfaction by ensuring better visibility, timely deliveries, and consistent communication across the supply chain.": 5,
+    "webxpress_features|WebXpress supports digital transformation in logistics by reducing manual processes and improving accuracy through automation and system integration. Would you like to explore more about WebXpress, its features, or its products?": 10,
+    "webxpress_about|WebXpress has always been at the forefront of next-generation technology, from Mobility and Cloud to Business Intelligence and Machine Learning. Would you like to explore more about its features or products?": 2,
+    "webxpress_products|Logicloud is WebXpress\u2019s cloud-based logistics platform, enabling real-time collaboration and visibility across your supply chain. Would you like to learn more about Logicloud?": 7,
+    "webxpress_products|['WebXpress offers a range of products to manage and optimize logistics operations, including TMS, WMS, E-Commerce, GreenXpress, LogiCloud, and Control Tower. Would you like to learn more about the features of each product?']": 1,
+    "webxpress_leadership|WebXpress was founded by Apurva Mankad, who serves as Founder Director & CEO. Nehal Mankad is the Director & COO, and Shashank Trivedi is Co-founder & Data Scientist. Would you like to learn more about their roles or the team behind WebXpress?": 1
 }
